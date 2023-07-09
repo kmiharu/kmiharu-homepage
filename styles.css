@@ -1,0 +1,27 @@
+body {
+    background-color: #fff4fa;
+}
+
+.custom-btn {
+    color: #fff;
+}
+
+.tw-btn {
+    background-color: #00acee;
+    border: none;
+}
+
+.ry-btn {
+    background-image: linear-gradient(to right, #5fb1fa, #f171ae);
+    border: none;
+}
+
+.yt-btn {
+    background-color: #FF0000;
+    border: none;
+}
+
+.an-btn {
+    background-color: #FF9900;
+    border: none;
+}
